@@ -32,7 +32,7 @@ jobs:
           # 指定自己的仓库地址
           docker_repo: registry.cn-hangzhou.aliyuncs.com/hanwb
           # 指定镜像名称
-          image_name: daxigua
+          image_name: devops-java
           # 指定镜像标签
           tag: latest
         run: | 
